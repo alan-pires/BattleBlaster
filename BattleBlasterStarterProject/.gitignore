@@ -1,0 +1,35 @@
+# ---------------------------------------------------
+# Unreal Engine .gitignore
+# ---------------------------------------------------
+
+# Visual Studio / IDE cache
+.vs/
+.vscode/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Engine build-generated folders (não versionar, são regerados)
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# Build/project files gerados automaticamente
+*.xcodeproj
+*.xcworkspace
+*.sdf
+*.opensdf
+*.opendb
+*.VC.db
+
+# Compiled source files
+*.obj
+*.pdb
+*.lib
+*.exe
+*.dll
+
+# Misc
+*.tmp
+*.log
